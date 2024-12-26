@@ -1,0 +1,28 @@
+itemGroup.tabBlockFrontItems=BlockFront Items
+itemGroup.tabBlockFrontBlocks=BlockFront Blocks
+
+item.ItemConcertinaKit.name=§fConcertina Kit
+item.ItemSandbagKit.name=§fSandbag Kit
+item.ItemSandbagKitBeige.name=§fSandbag Kit (Beige)
+item.ItemBackpackSmall.name=Small Backpack
+item.ItemBackpackMedium.name=Medium Backpack
+item.ItemBackpackLarge.name=Large Backpack
+
+entity.EntityLootableBody.name=Corpse
+
+tile.BlockNaziRadio.name=Nazi Radio
+tile.BlockNaziBanner.name=Nazi Banner
+tile.BlockAmericanRadio.name=American Radio
+tile.BlockAmericanBanner.name=American Banner
+tile.BlockJapaneseRadio.name=Japanese Radio
+tile.BlockJapaneseBanner.name=Japanese Banner 1
+tile.BlockJapaneseBanner2.name=Japanese Banner 2
+tile.BlockSovietRadio.name=Soviet (USSR) Radio
+tile.BlockSovietBanner.name=Soviet (USSR) Banner
+
+tile.BlockSandbagStack.name=Sandbag Stack
+tile.BlockSandbagStackBeige.name=Sandbag Stack (Beige)
+tile.BlockBarbedWire.name=Concertina Wire (Barbed)
+
+key.BlockFront.category=BlockFront
+key.BlockFront.backpack.desc=Open Backpack

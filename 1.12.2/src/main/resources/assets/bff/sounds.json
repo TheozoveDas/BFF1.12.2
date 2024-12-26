@@ -1,0 +1,103 @@
+{
+    "item.concertinakit.placewire": {
+        "category" : "player",
+        "sounds" : [ "bff:item/concertinakit/placewire" ]
+    },
+	    "item.sandbagkit.placebag": {
+        "category" : "player",
+        "sounds" : [ "bff:item/sandbagkit/placebag" ]
+    },
+    "item.backpack.zip": {
+        "category" : "player",
+        "sounds" : [ "bff:item/backpack/zip1","bff:item/backpack/zip2","bff:item/backpack/zip3" ]
+    },
+    "block.naziradio.chatter": {
+        "category" : "block",
+        "sounds" : [ "bff:block/naziradio/chatter1","bff:block/naziradio/chatter2","bff:block/naziradio/chatter3","bff:block/naziradio/chatter4","bff:block/naziradio/chatter5"]
+    },
+    "block.americanradio.chatter": {
+        "category" : "block",
+        "sounds" : [ "bff:block/americanradio/chatter1","bff:block/americanradio/chatter2","bff:block/americanradio/chatter3","bff:block/americanradio/chatter4","bff:block/americanradio/chatter5","bff:block/americanradio/chatter6"]
+    },
+    "block.sovietradio.chatter": {
+        "category" : "block",
+        "sounds" : [ "bff:block/sovietradio/chatter1","bff:block/sovietradio/chatter2","bff:block/sovietradio/chatter3","bff:block/sovietradio/chatter4","bff:block/sovietradio/chatter5","bff:block/sovietradio/chatter6","bff:block/sovietradio/chatter7","bff:block/sovietradio/chatter8"]
+    },
+    "block.japaneseradio.chatter": {
+        "category" : "block",
+        "sounds" : [
+            "bff:block/japaneseradio/chatter1",
+            "bff:block/japaneseradio/chatter2",
+            "bff:block/japaneseradio/chatter3",
+            "bff:block/japaneseradio/chatter4",
+            "bff:block/japaneseradio/chatter5",
+            "bff:block/japaneseradio/chatter6",
+            "bff:block/japaneseradio/chatter7",
+            "bff:block/japaneseradio/chatter8"
+        ]
+    },
+    "block.radio.static": {
+        "category" : "block",
+        "sounds" : [
+            "bff:block/radio/static1",
+            "bff:block/radio/static2"
+        ]
+    },
+    "mob.japanese.attack": {
+        "category" : "block",
+        "sounds" : [
+            "bff:mob/japanese/jaAttack1",
+            "bff:mob/japanese/jaAttack2",
+            "bff:mob/japanese/jaAttack3",
+            "bff:mob/japanese/jaAttack4",
+            "bff:mob/japanese/jaAttack5",
+            "bff:mob/japanese/jaAttack6",
+            "bff:mob/japanese/jaAttack7"
+        ]
+    },
+    "mob.japanese.banzai": {
+        "category" : "block",
+        "sounds" : [
+            "bff:mob/japanese/jaBanzai1",
+            "bff:mob/japanese/jaBanzai2",
+            "bff:mob/japanese/jaBanzai3",
+            "bff:mob/japanese/jaBanzai4",
+            "bff:mob/japanese/jaBanzai5",
+            "bff:mob/japanese/jaBanzai6",
+            "bff:mob/japanese/jaBanzai7",
+            "bff:mob/japanese/jaBanzai8",
+            "bff:mob/japanese/jaBanzai9",
+            "bff:mob/japanese/jaBanzai10",
+            "bff:mob/japanese/jaBanzai11"
+        ]
+    },
+    "mob.japanese.idle": {
+        "category" : "block",
+        "sounds" : [
+            "bff:mob/japanese/jaIdle1",
+            "bff:mob/japanese/jaIdle2",
+            "bff:mob/japanese/jaIdle3",
+            "bff:mob/japanese/jaIdle4",
+            "bff:mob/japanese/jaIdle5",
+            "bff:mob/japanese/jaIdle6",
+            "bff:mob/japanese/jaIdle7",
+            "bff:mob/japanese/jaIdle8",
+            "bff:mob/japanese/jaIdle9",
+            "bff:mob/japanese/jaIdle10",
+            "bff:mob/japanese/jaIdle11",
+            "bff:mob/japanese/jaIdle12"
+        ]
+    },
+    "mob.nazi.attack": {
+        "category" : "block",
+        "sounds" : [ "bff:mob/nazi/naziAttack1","bff:mob/nazi/naziAttack2","bff:mob/nazi/naziAttack3","bff:mob/nazi/naziAttack4","bff:mob/nazi/naziAttack5","bff:mob/nazi/naziAttack6"]
+    },
+    "mob.nazi.hurt": {
+        "category" : "block",
+        "sounds" : [ "bff:mob/nazi/naziHurt1","bff:mob/nazi/naziHurt2","bff:mob/nazi/naziHurt3","bff:mob/nazi/naziHurt4","bff:mob/nazi/naziHurt5"]
+    },
+    "mob.american.attack": {
+        "category" : "block",
+        "sounds" : [ "bff:mob/american/americanAttack1","bff:mob/american/americanAttack2","bff:mob/american/americanAttack3","bff:mob/american/americanAttack4","bff:mob/american/americanAttack5","bff:mob/american/americanAttack6"]
+    }
+}
